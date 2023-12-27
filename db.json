@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "employee_name": "Gaurav",
+      "employee_email": "gaurasharma@gmail.com",
+      "employee_salary": "10000",
+      "employee_age": "35"
+    }
+  ],
+  "admin": [
+    {
+      "email": "gaurav@gmail.com",
+      "password": "admin",
+      "id": 1
+    }
+  ]
+}
